@@ -12,9 +12,8 @@ You can click the Preview link to take a look at your changes.
   <br><br>
   💞️ I’m looking to collaborate on development project or intern of a software engineering.
   <br><br>
-  📫 How to reach me 
-  <br>
+  📫 How to reach me <br>
   <a href="https://www.instagram.com/cassie_j_c/">
-    <img height="32" align="left" alt="instagram" src="[instagram.png](https://icons8.com/icon/32292/instagram)"></a>
+    <img height="32" align="left" alt="instagram" src="instagram.png"></a>
 </p>
 
