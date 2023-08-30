@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
   <br><br>
   📫 How to reach me <br>
   <a href="https://www.linkedin.com/in/cassie-julia-cabrina/">
-    <img height="32" align="left" alt="linkedin" src="instagram.png"></a>
+    <img height="32" align="left" alt="linkedin" src="linkedinicon.png"></a>
 </p>
 
