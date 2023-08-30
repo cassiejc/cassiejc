@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   💞️ I’m looking to collaborate on development project or intern of a software engineering.
   <br><br>
   📫 How to reach me <br>
-  <a href="https://www.instagram.com/cassie_j_c/">
-    <img height="32" align="left" alt="instagram" src="instagram.png"></a>
+  <a href="https://www.linkedin.com/in/cassie-julia-cabrina/">
+    <img height="32" align="left" alt="linkedin" src="instagram.png"></a>
 </p>
 
