@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   <br><br>
   🌱 I’m currently learning C, HTML, CSS, PHP, SQL, JavaScript
   <br><br>
-  💞️ I’m looking to collaborate on development project or intern of a software engineering.
+  💞️ I’m looking to collaborate on development project or intern of a IoT software engineering.
   <br><br>
   📫 How to reach me <br>
   <a href="https://www.linkedin.com/in/cassie-julia-cabrina/">
