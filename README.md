@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <br><br>
   👀 I’m interested in web development, website design, AR/ VR, programming languages, or anything I'd like.
   <br><br>
-  🌱 I’m currently learning C, HTML, CSS, PHP, SQL, JavaScript
+  🌱 I’m currently learning C, HTML, CSS, PHP, SQL, JavaScript, Java, C#, C++
   <br><br>
   💞️ I’m looking to collaborate on development project or intern of a IoT software engineering.
   <br><br>
