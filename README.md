@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <p>
   👋 Hi, I’m @cassiejc
   <br><br>
-  👀 I’m interested in web development, website design, AR/ VR, programming languages, or anything I'd like.
+  👀 I’m interested in web development, App development, AR/ VR, programming languages, IoT, or anything I'd like.
   <br><br>
   🌱 I’m currently learning C, HTML, CSS, PHP, SQL, JavaScript, Java, C#, C++
   <br><br>
